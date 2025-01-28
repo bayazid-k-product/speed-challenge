@@ -1,1 +1,2 @@
 # speed-challenge
+# Hello guys, I'm Bayazid. I just wanted to tell you that after I finished the website and published it on Netlify to try it out, I remembered that I forgot to make the homepage. So, I had to create a homepage that redirects to the link of the site. Unfortunately, these files are only for the homepage. Also, when I published the site, I deleted the files because my hard drive is full and doesn’t have space. So, I sorry.
